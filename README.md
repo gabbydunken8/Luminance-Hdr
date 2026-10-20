@@ -211,4 +211,4 @@ Luminance HDR is a fully free software with all features and updates included. T
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-19 23:22:38 UTC
+**Last updated:** 2026-10-20 03:47:14 UTC
